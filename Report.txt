@@ -1,6 +1,17 @@
 ######## Hackathon-Submission-Report- ########
+1st Checkpoint
 
 - Till now i have created toggle navbar and a beautiful webpage for my restaurent project.
 - My Toggle navbar is not working yet but i will make sure it will work perfectly in the next checkpoint.
 - I have done a lot of styling like hover effect, using border and all with the help of CSS.
 - i have used one pic as a background and that pic was random not taken from any site, present in my wallpaper collection.    
+
+2nd Checkpoint
+
+- i have a created beautiful webpage having a restaurent theme.
+- Now my toggle navbar is working properly.I have not linked all the files coz i am working on that.
+- i have created beautifull About section for types of food and write a quote.
+- I have used fontawesome and googleapis to beautify my website.I have also used some animations.
+- Then i have added social media icons containing the info of Owner.
+- I have also created Food Fusion section.The images used in ths section was taken by Unsplash (https://unsplash.com/).
+- At last i have created a footer section and below footer i have used some animation to show a moving panda.
