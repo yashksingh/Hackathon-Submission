@@ -15,3 +15,10 @@
 - Then i have added social media icons containing the info of Owner.
 - I have also created Food Fusion section.The images used in ths section was taken by Unsplash (https://unsplash.com/).
 - At last i have created a footer section and below footer i have used some animation to show a moving panda.
+
+3rd Checkpoint
+
+- I have done with the navbar thing.I am creating all the necessary files which i am goona link to main file.
+- I have done with the styling of the main page.
+- I have used HD images from unsplash.
+- I am creating an explore page containing the menu.
