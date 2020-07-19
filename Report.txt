@@ -22,3 +22,17 @@
 - I have done with the styling of the main page.
 - I have used HD images from unsplash.
 - I am creating an explore page containing the menu.
+
+Last Checkpoint
+
+- Finally i have completed the task.
+- I have created my Restaurent Website.
+- I have made a toggle navbar containing sections like about section, contact and location section.
+- When we gonna click on any section we jumped to the different page containing the selected info.
+- I have also created a explore webpage which is basically my menu section.
+- I have also made a navbar in menu or explore section but this is not  a toggle navbar. This is pretty basic navbar.
+Different tools and site i have used - 
+1.Unslpash
+2. Google Font
+3. Font Awesome.
+4. Bootstrap.
